@@ -1,0 +1,12 @@
+django-debug-toolbar
+django-filter
+tablib
+Django
+djangorestframework
+django-cors-headers
+requests
+django-bootstrap4
+django-tables2
+
+
+
